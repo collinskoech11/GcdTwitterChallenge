@@ -16,7 +16,6 @@ public class gcd {
 
         a=x;
         b=y;
-
         while (b != 0) {
             t = b;
             b = a % b;
